@@ -153,7 +153,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del Proyecto
 
 ```bash
-Bingflix/
+PlataformaStreamingPeliculas/
 │
 ├── assets/                 # Recursos multimedia
 ├── css/                    # Estilos
@@ -171,7 +171,7 @@ Bingflix/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/your-username/netflix-web-project.git
+git clone https://github.com/isairey/PlataformaStreamingPeliculas.git
 ```
 
 ---
